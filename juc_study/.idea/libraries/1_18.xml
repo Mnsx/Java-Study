@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.18">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Application/Maven/apache-maven-3.8.6-bin/repository/org/projectlombok/lombok/1.18.10" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../Application/Maven/apache-maven-3.8.6-bin/repository/org/projectlombok/lombok/1.18.10" recursive="false" />
+  </library>
+</component>
