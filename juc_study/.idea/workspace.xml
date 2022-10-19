@@ -65,7 +65,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -78,9 +78,9 @@
       <recent name="io.three" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeadLockDemo">
-    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.DeadLockDemo" />
+  <component name="RunManager" selected="Application.LockSupportDemo">
+    <configuration name="InterruptDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.InterruptDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lock8Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.Lock8Demo" />
+    <configuration name="InterruptDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.InterruptDemo2" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LockSyncDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.LockSyncDemo" />
+    <configuration name="InterruptDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.InterruptDemo3" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReEntryLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.ReEntryLockDemo" />
+    <configuration name="InterruptDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.InterruptDemo4" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaleTicketDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.SaleTicketDemo" />
+    <configuration name="LockSupportDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.LockSupportDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -145,19 +145,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lock8Demo" />
-      <item itemvalue="Application.LockSyncDemo" />
-      <item itemvalue="Application.SaleTicketDemo" />
-      <item itemvalue="Application.ReEntryLockDemo" />
-      <item itemvalue="Application.DeadLockDemo" />
+      <item itemvalue="Application.InterruptDemo" />
+      <item itemvalue="Application.InterruptDemo2" />
+      <item itemvalue="Application.InterruptDemo3" />
+      <item itemvalue="Application.InterruptDemo4" />
+      <item itemvalue="Application.LockSupportDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeadLockDemo" />
-        <item itemvalue="Application.ReEntryLockDemo" />
-        <item itemvalue="Application.SaleTicketDemo" />
-        <item itemvalue="Application.LockSyncDemo" />
-        <item itemvalue="Application.Lock8Demo" />
+        <item itemvalue="Application.LockSupportDemo" />
+        <item itemvalue="Application.InterruptDemo4" />
+        <item itemvalue="Application.InterruptDemo3" />
+        <item itemvalue="Application.InterruptDemo2" />
+        <item itemvalue="Application.InterruptDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +179,8 @@
       <workItem from="1666004799760" duration="7355000" />
       <workItem from="1666051791810" duration="431000" />
       <workItem from="1666098573076" duration="4210000" />
+      <workItem from="1666143430431" duration="13000" />
+      <workItem from="1666179450323" duration="7738000" />
     </task>
     <servers />
   </component>
