@@ -78,33 +78,7 @@
       <recent name="io.three" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LockSupportDemo">
-    <configuration name="InterruptDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.InterruptDemo" />
-      <module name="juc_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterruptDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.InterruptDemo2" />
-      <module name="juc_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VolatileNoAtomicDemo">
     <configuration name="InterruptDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="base.InterruptDemo3" />
       <module name="juc_study" />
@@ -144,20 +118,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VolatileNoAtomicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.VolatileNoAtomicDemo" />
+      <module name="juc_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileSeeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.VolatileSeeDemo" />
+      <module name="juc_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.InterruptDemo" />
-      <item itemvalue="Application.InterruptDemo2" />
       <item itemvalue="Application.InterruptDemo3" />
       <item itemvalue="Application.InterruptDemo4" />
       <item itemvalue="Application.LockSupportDemo" />
+      <item itemvalue="Application.VolatileSeeDemo" />
+      <item itemvalue="Application.VolatileNoAtomicDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VolatileNoAtomicDemo" />
+        <item itemvalue="Application.VolatileSeeDemo" />
         <item itemvalue="Application.LockSupportDemo" />
         <item itemvalue="Application.InterruptDemo4" />
         <item itemvalue="Application.InterruptDemo3" />
-        <item itemvalue="Application.InterruptDemo2" />
-        <item itemvalue="Application.InterruptDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +183,11 @@
       <workItem from="1666179450323" duration="7738000" />
       <workItem from="1666242232707" duration="10000" />
       <workItem from="1666266338693" duration="5648000" />
+      <workItem from="1666312197382" duration="702000" />
+      <workItem from="1666327023411" duration="3000" />
+      <workItem from="1666327073688" duration="370000" />
+      <workItem from="1666356805551" duration="1262000" />
+      <workItem from="1666359038988" duration="4370000" />
     </task>
     <servers />
   </component>
