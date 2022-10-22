@@ -78,9 +78,9 @@
       <recent name="io.three" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VolatileNoAtomicDemo">
-    <configuration name="InterruptDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.InterruptDemo3" />
+  <component name="RunManager" selected="Application.ABADemo">
+    <configuration name="ABADemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.ABADemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterruptDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.InterruptDemo4" />
+    <configuration name="AtomicReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.AtomicReferenceDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LockSupportDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.LockSupportDemo" />
+    <configuration name="AtomicStampedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.AtomicStampedDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolatileNoAtomicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.VolatileNoAtomicDemo" />
+    <configuration name="CASDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.CASDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolatileSeeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.VolatileSeeDemo" />
+    <configuration name="SpinLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.SpinLockDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -145,19 +145,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InterruptDemo3" />
-      <item itemvalue="Application.InterruptDemo4" />
-      <item itemvalue="Application.LockSupportDemo" />
-      <item itemvalue="Application.VolatileSeeDemo" />
-      <item itemvalue="Application.VolatileNoAtomicDemo" />
+      <item itemvalue="Application.CASDemo" />
+      <item itemvalue="Application.AtomicReferenceDemo" />
+      <item itemvalue="Application.SpinLockDemo" />
+      <item itemvalue="Application.AtomicStampedDemo" />
+      <item itemvalue="Application.ABADemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VolatileNoAtomicDemo" />
-        <item itemvalue="Application.VolatileSeeDemo" />
-        <item itemvalue="Application.LockSupportDemo" />
-        <item itemvalue="Application.InterruptDemo4" />
-        <item itemvalue="Application.InterruptDemo3" />
+        <item itemvalue="Application.ABADemo" />
+        <item itemvalue="Application.AtomicStampedDemo" />
+        <item itemvalue="Application.SpinLockDemo" />
+        <item itemvalue="Application.AtomicReferenceDemo" />
+        <item itemvalue="Application.CASDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +188,8 @@
       <workItem from="1666327073688" duration="370000" />
       <workItem from="1666356805551" duration="1262000" />
       <workItem from="1666359038988" duration="4370000" />
+      <workItem from="1666397669629" duration="396000" />
+      <workItem from="1666436281875" duration="5620000" />
     </task>
     <servers />
   </component>
