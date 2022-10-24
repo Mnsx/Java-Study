@@ -78,9 +78,9 @@
       <recent name="io.three" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ABADemo">
-    <configuration name="ABADemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.ABADemo" />
+  <component name="RunManager" selected="Application.AccumulatorCompareDemo">
+    <configuration name="AccumulatorCompareDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.AccumulatorCompareDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AtomicReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.AtomicReferenceDemo" />
+    <configuration name="AtomicIntegerFieldUpdaterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.AtomicIntegerFieldUpdaterDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AtomicStampedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.AtomicStampedDemo" />
+    <configuration name="AtomicMarkReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.AtomicMarkReferenceDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CASDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.CASDemo" />
+    <configuration name="AtomicReferenceFieldUpdaterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.AtomicReferenceFieldUpdaterDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpinLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.SpinLockDemo" />
+    <configuration name="LogAdderAPIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.LogAdderAPIDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -145,19 +145,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CASDemo" />
-      <item itemvalue="Application.AtomicReferenceDemo" />
-      <item itemvalue="Application.SpinLockDemo" />
-      <item itemvalue="Application.AtomicStampedDemo" />
-      <item itemvalue="Application.ABADemo" />
+      <item itemvalue="Application.AtomicMarkReferenceDemo" />
+      <item itemvalue="Application.AtomicIntegerFieldUpdaterDemo" />
+      <item itemvalue="Application.AtomicReferenceFieldUpdaterDemo" />
+      <item itemvalue="Application.LogAdderAPIDemo" />
+      <item itemvalue="Application.AccumulatorCompareDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ABADemo" />
-        <item itemvalue="Application.AtomicStampedDemo" />
-        <item itemvalue="Application.SpinLockDemo" />
-        <item itemvalue="Application.AtomicReferenceDemo" />
-        <item itemvalue="Application.CASDemo" />
+        <item itemvalue="Application.AccumulatorCompareDemo" />
+        <item itemvalue="Application.LogAdderAPIDemo" />
+        <item itemvalue="Application.AtomicReferenceFieldUpdaterDemo" />
+        <item itemvalue="Application.AtomicIntegerFieldUpdaterDemo" />
+        <item itemvalue="Application.AtomicMarkReferenceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +190,11 @@
       <workItem from="1666359038988" duration="4370000" />
       <workItem from="1666397669629" duration="396000" />
       <workItem from="1666436281875" duration="5620000" />
+      <workItem from="1666448211357" duration="9000" />
+      <workItem from="1666482197253" duration="14000" />
+      <workItem from="1666525066384" duration="8747000" />
+      <workItem from="1666539142477" duration="2847000" />
+      <workItem from="1666580758867" duration="1201000" />
     </task>
     <servers />
   </component>
