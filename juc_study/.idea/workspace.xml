@@ -78,48 +78,9 @@
       <recent name="io.three" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AccumulatorCompareDemo">
+  <component name="RunManager" selected="Application.ReferenceDemo">
     <configuration name="AccumulatorCompareDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="base.AccumulatorCompareDemo" />
-      <module name="juc_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AtomicIntegerFieldUpdaterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.AtomicIntegerFieldUpdaterDemo" />
-      <module name="juc_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AtomicMarkReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.AtomicMarkReferenceDemo" />
-      <module name="juc_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AtomicReferenceFieldUpdaterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.AtomicReferenceFieldUpdaterDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -144,20 +105,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReferenceDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.ReferenceDemo" />
+      <module name="juc_study" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.ThreadLocalDemo" />
+      <module name="juc_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadLocalDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.ThreadLocalDemo2" />
+      <module name="juc_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.AtomicMarkReferenceDemo" />
-      <item itemvalue="Application.AtomicIntegerFieldUpdaterDemo" />
-      <item itemvalue="Application.AtomicReferenceFieldUpdaterDemo" />
+      <item itemvalue="Application.ReferenceDemo" />
+      <item itemvalue="Application.ThreadLocalDemo" />
+      <item itemvalue="Application.ThreadLocalDemo2" />
       <item itemvalue="Application.LogAdderAPIDemo" />
       <item itemvalue="Application.AccumulatorCompareDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadLocalDemo2" />
         <item itemvalue="Application.AccumulatorCompareDemo" />
         <item itemvalue="Application.LogAdderAPIDemo" />
-        <item itemvalue="Application.AtomicReferenceFieldUpdaterDemo" />
-        <item itemvalue="Application.AtomicIntegerFieldUpdaterDemo" />
-        <item itemvalue="Application.AtomicMarkReferenceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +194,10 @@
       <workItem from="1666525066384" duration="8747000" />
       <workItem from="1666539142477" duration="2847000" />
       <workItem from="1666580758867" duration="1201000" />
+      <workItem from="1666607330497" duration="1000" />
+      <workItem from="1666607336223" duration="2943000" />
+      <workItem from="1666656144638" duration="590000" />
+      <workItem from="1666695554889" duration="11696000" />
     </task>
     <servers />
   </component>
