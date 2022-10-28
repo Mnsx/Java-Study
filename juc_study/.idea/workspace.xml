@@ -57,7 +57,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -198,6 +198,10 @@
       <workItem from="1666607336223" duration="2943000" />
       <workItem from="1666656144638" duration="590000" />
       <workItem from="1666695554889" duration="11696000" />
+      <workItem from="1666753802881" duration="119000" />
+      <workItem from="1666753943710" duration="38000" />
+      <workItem from="1666783133762" duration="3086000" />
+      <workItem from="1666840631106" duration="1624000" />
     </task>
     <servers />
   </component>
