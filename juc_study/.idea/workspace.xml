@@ -61,10 +61,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Application/Maven/apache-maven-3.8.6-bin/repository/org/projectlombok/lombok/1.18.10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Application/Maven/apache-maven-3.8.6-bin/repository/org/openjdk/jol/jol-core/0.16/jol-core-0.16.jar" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -78,10 +78,24 @@
       <recent name="io.three" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReferenceDemo">
+  <component name="RunManager" selected="Application.LockSaleTicketDemo">
     <configuration name="AccumulatorCompareDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="base.AccumulatorCompareDemo" />
       <module name="juc_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockSaleTicketDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.LockSaleTicketDemo" />
+      <module name="juc_study" />
+      <option name="VM_PARAMETERS" value="-XX:BiasedLockingStartupDelay=0" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="base.*" />
@@ -109,6 +123,19 @@
       <option name="MAIN_CLASS_NAME" value="base.ReferenceDemo" />
       <module name="juc_study" />
       <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizedUpDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.SynchronizedUpDemo" />
+      <module name="juc_study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="base.*" />
@@ -151,9 +178,13 @@
       <item itemvalue="Application.ThreadLocalDemo2" />
       <item itemvalue="Application.LogAdderAPIDemo" />
       <item itemvalue="Application.AccumulatorCompareDemo" />
+      <item itemvalue="Application.SynchronizedUpDemo" />
+      <item itemvalue="Application.LockSaleTicketDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LockSaleTicketDemo" />
+        <item itemvalue="Application.SynchronizedUpDemo" />
         <item itemvalue="Application.ThreadLocalDemo2" />
         <item itemvalue="Application.AccumulatorCompareDemo" />
         <item itemvalue="Application.LogAdderAPIDemo" />
@@ -202,6 +233,7 @@
       <workItem from="1666753943710" duration="38000" />
       <workItem from="1666783133762" duration="3086000" />
       <workItem from="1666840631106" duration="1624000" />
+      <workItem from="1666964485206" duration="3196000" />
     </task>
     <servers />
   </component>
