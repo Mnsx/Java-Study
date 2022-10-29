@@ -78,9 +78,35 @@
       <recent name="io.three" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LockSaleTicketDemo">
-    <configuration name="AccumulatorCompareDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.AccumulatorCompareDemo" />
+  <component name="RunManager" selected="Application.LockBigDemo">
+    <configuration name="HashCodeSynchronizedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.HashCodeSynchronizedDemo" />
+      <module name="juc_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockBigDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.LockBigDemo" />
+      <module name="juc_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockClearUpDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.LockClearUpDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
@@ -96,19 +122,6 @@
       <option name="MAIN_CLASS_NAME" value="base.LockSaleTicketDemo" />
       <module name="juc_study" />
       <option name="VM_PARAMETERS" value="-XX:BiasedLockingStartupDelay=0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LogAdderAPIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.LogAdderAPIDemo" />
-      <module name="juc_study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="base.*" />
@@ -159,35 +172,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLocalDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.ThreadLocalDemo2" />
-      <module name="juc_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.ReferenceDemo" />
       <item itemvalue="Application.ThreadLocalDemo" />
-      <item itemvalue="Application.ThreadLocalDemo2" />
-      <item itemvalue="Application.LogAdderAPIDemo" />
-      <item itemvalue="Application.AccumulatorCompareDemo" />
       <item itemvalue="Application.SynchronizedUpDemo" />
       <item itemvalue="Application.LockSaleTicketDemo" />
+      <item itemvalue="Application.HashCodeSynchronizedDemo" />
+      <item itemvalue="Application.LockClearUpDemo" />
+      <item itemvalue="Application.LockBigDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LockBigDemo" />
+        <item itemvalue="Application.LockClearUpDemo" />
+        <item itemvalue="Application.HashCodeSynchronizedDemo" />
         <item itemvalue="Application.LockSaleTicketDemo" />
         <item itemvalue="Application.SynchronizedUpDemo" />
-        <item itemvalue="Application.ThreadLocalDemo2" />
-        <item itemvalue="Application.AccumulatorCompareDemo" />
-        <item itemvalue="Application.LogAdderAPIDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +234,8 @@
       <workItem from="1666783133762" duration="3086000" />
       <workItem from="1666840631106" duration="1624000" />
       <workItem from="1666964485206" duration="3196000" />
+      <workItem from="1667006807002" duration="12000" />
+      <workItem from="1667048690020" duration="4139000" />
     </task>
     <servers />
   </component>

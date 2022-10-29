@@ -26,6 +26,15 @@ class Ticket {
 public class LockSaleTicketDemo {
     public static void main(String[] args) {
 //        noLock();
+//        biasedLock();
+        Object o = new Object();
+
+        new Thread(() -> {
+            System.out.println(ClassLayout.parseInstance(o).toPrintable());
+        }, "t1").start();
+    }
+
+    private static void biasedLock() {
         try {
             TimeUnit.MILLISECONDS.sleep(5000);
         } catch (InterruptedException e) {
